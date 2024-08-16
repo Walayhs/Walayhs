@@ -12,7 +12,7 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 
 <h3 align="left">💬 Reach out to me:</h3>
 
-<p align="left"><a href="https://www.linkedin.com/in/walay-shelke-662a81258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Walay Shelke's LinkedIn" height="30" width="40" /></a> &nbsp <a href="shwalay.dev@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Walay's Email" height="30" width="40" /></a></p>
+<p align="left"><a href="https://www.linkedin.com/in/walay-shelke-662a81258/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Walay Shelke's LinkedIn" height="30" width="40" /></a> &nbsp <a href="https://mail.google.com/mail/?view=cm&fs=1&to=shwalay.dev@gmail.com" target="blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Walay's Email" height="30" width="40" /></a></p>
 
 <br>
 
