@@ -30,6 +30,8 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <p align="center"> <a href=""><img src="https://stats.quira.sh/Walayhs/languages-over-time?theme=dark" alt="Walayhs" /></a> </p>
 <br>
 
+[![An image of @walayhs's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/walayhs)](https://holopin.io/@walayhs)
+
 ![Profile-views](https://komarev.com/ghpvc/?username=Walayhs&abbreviated=true&style=for-the-badge&color=013042)
 
 
