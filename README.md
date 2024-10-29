@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm passionate about coding, learning new technolo
 <h2 align="center">📈 GitHub Stats </h2>
 <br>
 <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Walayhs&theme=algolia&no-frame=true&margin-w=10&margin-h=15" alt="Walayhs" /></a> </p>
-<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Walayhs&theme=chartreuse-dark&hide_border=true&ring=EBBA07&fire=EB5454&currStreakNum=FF905A&currStreakLabel=EB5454" alt="animex007" /></a> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Walayhs&theme=chartreuse-dark&show_icons=true&hide_border=true" alt="Walayhs" /></a></p>
+<p align="center"> <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=Walayhs&theme=chartreuse-dark&hide_border=true&ring=EBBA07&fire=EB5454&currStreakNum=FF905A&currStreakLabel=EB5454" alt="Walayhs" /></a> <a href=""><img src="https://github-readme-stats.vercel.app/api?username=Walayhs&theme=chartreuse-dark&show_icons=true&hide_border=true" alt="Walayhs" /></a></p>
 
-<p align="center"> <a href="https://quira.sh?utm_source=widgets&utm_campaign=Walayhs"><img src="https://stats.quira.sh/Walayhs/github?theme=dark" alt="animex007" /></a> &nbsp &nbsp <a href="https://quira.sh?utm_source=widgets&utm_campaign=Walayhs"><img src="https://stats.quira.sh/Walayhs/dependencies?theme=dark" alt="Walayhs" /></a> </p>
+<p align="center"> <a href="https://quira.sh?utm_source=widgets&utm_campaign=Walayhs"><img src="https://stats.quira.sh/Walayhs/github?theme=dark" alt="Walayhs" /></a> &nbsp &nbsp <a href="https://quira.sh?utm_source=widgets&utm_campaign=Walayhs"><img src="https://stats.quira.sh/Walayhs/dependencies?theme=dark" alt="Walayhs" /></a> </p>
 <p align="center"> <a href=""><img src="https://stats.quira.sh/Walayhs/languages-over-time?theme=dark" alt="Walayhs" /></a> </p>
 <br>
 
